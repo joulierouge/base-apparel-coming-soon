@@ -30,7 +30,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [https://github.com/joulierouge/base-apparel-coming-soon](https://github.com/yourusernamejoulierouge/base-apparel-coming-soon)
+- Solution URL: [https://joulierouge.github.io/base-apparel-coming-soon/](https://joulierouge.github.io/base-apparel-coming-soon/)
 
 ## My process
 
